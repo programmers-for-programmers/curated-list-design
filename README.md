@@ -39,3 +39,14 @@ Books:
 3. System Design Interview by Alex Xu - https://lnkd.in/gzUBcRe3
 4. Database Internals by Alex Petrov - https://lnkd.in/gMC9B9UR
 5. Building Microservices by Sam Newman - https://lnkd.in/gz5cwpG9
+
+System Design:
+1) Grokking System Design Fundamentals: https://lnkd.in/gtcCT-dJ
+2) Grokking the System Design Interview: https://lnkd.in/giwyzfkT
+
+
+Tips:
+
+𝐇𝐨𝐰 𝐓𝐨 𝐇𝐚𝐯𝐞 𝐋𝐨𝐰 𝐋𝐚𝐭𝐞𝐧𝐜𝐲 𝐢𝐧 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐒𝐲𝐬𝐭𝐞𝐦𝐬?
+
+![image](https://github.com/programmers-for-programmers/curated-list-design/assets/4883000/48b64b1a-19c0-44ba-b2d9-6e6e50ef96cf)
