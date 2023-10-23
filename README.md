@@ -92,3 +92,6 @@ Tips:
 
 36) **To prevent overloading system** - Use Token bucket and Leaky bucket algorithm
 37) **Minimize deployment downtime** - Implement blue green deployment to minimize downtime and reduce risk
+38) 5 𝐖𝐚𝐲𝐬 𝐭𝐨 𝐈𝐦𝐩𝐫𝐨𝐯𝐞 𝐘𝐨𝐮𝐫 𝐀𝐏𝐈 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞
+![image](https://github.com/programmers-for-programmers/curated-list-design/assets/4883000/9110cb8b-9db4-4a73-9c9e-ba5fab770f77)
+
